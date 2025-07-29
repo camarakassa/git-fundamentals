@@ -1,3 +1,3 @@
 export class Api{
-   const data = [{firstName:'Kassa', lastName:'Camara'}];
+   const data = [{firstName:'Kassa', lastName:'Camara'}]
 }
