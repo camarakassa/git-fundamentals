@@ -1,3 +1,3 @@
 export class Api{
-   const users = [{firstName:'Kassa', lastName:'Camara'}]
+   const users = [{firstName:'Kassa', lastName:'Camara'}];
 }
