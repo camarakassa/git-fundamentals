@@ -1,0 +1,3 @@
+Hello Squash
+Bye Squash
+foo squash
