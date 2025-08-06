@@ -9,5 +9,5 @@ const substract = (a, b) => {
 
 export {
   add,
-  minus
+  substract
 }
